@@ -1,6 +1,6 @@
 const courses = [
   {
-    mark: 'R&S',
+    mark: 'CTT',
     level: 'Curso Técnico Terciario',
     title: 'Tecnicatura en Redes y Software',
     description: 'Diseñá, desplegá y administrá soluciones de software y redes para organizaciones reales.',
@@ -18,7 +18,7 @@ const courses = [
     brochure: 'https://its.utu.edu.uy/wp-content/uploads/2024/12/Folleto-BT-informatica.pdf'
   },
   {
-    mark: 'FN',
+    mark: 'EMT',
     level: 'Finalización de Educación Media Tecnológica',
     title: 'FINEST · IT y Redes',
     description: 'Completá el bachillerato con una orientación técnica en tecnologías de la información y redes.',
